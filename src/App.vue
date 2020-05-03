@@ -3,13 +3,13 @@
     <Sidebar>
       <div class="col">
         <div class="card">
-          <label>Rows</label>
+          <label>Length (ft)</label>
           <input v-model.number="rows" />
         </div>
       </div>
       <div class="col">
         <div class="card">
-          <label>Cols</label>
+          <label>Breadth (ft)</label>
           <input v-model.number="columns" />
         </div>
       </div>
